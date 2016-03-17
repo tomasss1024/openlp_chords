@@ -1,4 +1,4 @@
-This additional function was for OpenLP and it was described in <a href="http://forums.openlp.org/discussion/2544/chords-in-openlp">forums.openlp.org</a>
+This additional function was for OpenLP and it was described in http://forums.openlp.org/discussion/2544/chords-in-openlp
 
 Import chords_tags.conf as OpenLP configuration or add formating tags:
 {cl}: <span class="chordline"> .. </span>
