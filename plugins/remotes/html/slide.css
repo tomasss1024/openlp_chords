@@ -1,0 +1,43 @@
+/******************************************************************************
+* OpenLP - Open Source Lyrics Projection                                      *
+* --------------------------------------------------------------------------- *
+* Copyright (c) 2008-2015 OpenLP Developers                                   *
+* --------------------------------------------------------------------------- *
+* This program is free software; you can redistribute it and/or modify it     *
+* under the terms of the GNU General Public License as published by the Free  *
+* Software Foundation; version 2 of the License.                              *
+*                                                                             *
+* This program is distributed in the hope that it will be useful, but WITHOUT *
+* ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or       *
+* FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for    *
+* more details.                                                               *
+*                                                                             *
+* You should have received a copy of the GNU General Public License along     *
+* with this program; if not, write to the Free Software Foundation, Inc., 59  *
+* Temple Place, Suite 330, Boston, MA 02111-1307 USA                          *
+******************************************************************************/
+
+body { background-color: black; font-family: 'Arial Narrow', 'Avenir Next Condensed', sans-serif-condensed, Arial, sans-serif; font-size: 4.4vw; overflow: hidden;}
+
+#currentslide { font-size: 100%; color: lightgray; padding-bottom: 0px;}
+
+#nextslide { font-size: 100%; color: gray; padding-top: 0px; padding-bottom: 0px;}
+#right { float: right;}
+#clock { font-size: 75%; color: yellow; text-align: right;}
+#notes { font-size: 90%; color: salmon; text-align: right;}
+
+#controls { display:none; }
+#chords{ font-size: 50%; color:gray; background-color:gray; color:white; cursor:pointer;}
+
+#header {height: 1.4em;}
+#transpose, #transposevalue, #capodisplay { display: inline-block; font-size: 75%; color:gray ; vertical-align: middle;}
+#header .button , #plus, #minus{ display: inline-block; width: 3vw; line-height: 3vw; vertical-align: middle; color: white; background-color:gray; font-size: 75%; text-align:center; cursor:pointer;}
+
+#verseorder { font-size: 75%; color: green; text-align: left; line-height: 1.5; display:inline-block; vertical-align: middle;}
+
+.currenttag { color: lightgreen; font-weight: bold;}
+.chordline { line-height:2.0; }
+.chordline1 { line-height:1.0 }
+.chordline span.chord span { position:relative; }
+.chordline span.chord span strong { position:absolute; top:-1em; left:0; font:500 75% 'Arial Narrow', 'Avenir Next Condensed', sans-serif-condensed, Arial, sans-serif; color:yellow;}
+.nextslide .chordline span.chord span strong { color:gray; }
