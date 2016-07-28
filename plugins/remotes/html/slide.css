@@ -40,4 +40,4 @@ body { background-color: black; font-family: 'Arial Narrow', 'Avenir Next Conden
 .chordline1 { line-height:1.0 }
 .chordline span.chord span { position:relative; }
 .chordline span.chord span strong { position:absolute; top:-1em; left:0; font:500 75% 'Arial Narrow', 'Avenir Next Condensed', sans-serif-condensed, Arial, sans-serif; color:yellow;}
-.nextslide .chordline span.chord span strong { color:orange; }
+#nextslide .chordline span.chord span strong { color:orange; }
