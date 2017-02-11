@@ -4,16 +4,17 @@ Conversion tool from text lyrics to openlp try <a href="https://github.com/tomas
 
 Import chords_tags.conf as OpenLP configuration or add formating tags:
 
-   {cl}: &lt;span class="chordline"&gt; .. &lt;/span&gt;
+```
+   {cl}: <span class="chordline"> .. </span>
 
-   {c}: &lt;span class="chord" style="display:none;"&gt; .. &lt;/span&gt;
+   {c}: <span class="chord" style="display:none> .. </span>
+```
 
+## For OpenLP 2.5 and newer
 
-For OpenLP 2.5 and newer
+There is possibility to create <a href="https://manual.openlp.org/stage_view.html#custom-stage-views">Custom Stage Views</a> in OpenLP 2.5 and newer.
 
-as described in manual OpenLP <a href="https://manual.openlp.org/stage_view.html#custom-stage-views">Custom Stage Views</a>
-
-unzip directory "stages" into the OpenLP Data Folder by going to Tools &gt; Open Data Folder.
+Than you can unzip directory "stages" into the OpenLP Data Folder (by going to *Tools &gt; Open Data Folder*).
 
 and open url in your browser:
 
@@ -25,7 +26,7 @@ http://localhost:4316/stage/print
    
 
    
-For OpenLP v 2.4 and older   
+## For OpenLP v 2.4 and older   
 
 and unzip these files under plugins/remotes/html to OpenLP directory or manualy copy slide.html and slide.js to plugins\remotes\html\
 
