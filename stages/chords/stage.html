@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html><!--
+###############################################################################
+# OpenLP - Open Source Lyrics Projection                                      #
+# --------------------------------------------------------------------------- #
+# Copyright (c) 2008-2014 Raoul Snyman                                        #
+# Portions copyright (c) 2008-2014 Tim Bentley, Gerald Britton, Jonathan      #
+# Corwin, Samuel Findlay, Michael Gorven, Scott Guerrieri, Matthias Hub,      #
+# Meinert Jordan, Armin Köhler, Erik Lundin, Edwin Lunando, Brian T. Meyer.   #
+# Joshua Miller, Stevan Pettit, Andreas Preikschat, Mattias Põldaru,          #
+# Christian Richter, Philip Ridout, Simon Scudder, Jeffrey Smith,             #
+# Maikel Stuivenberg, Martin Thompson, Jon Tibble, Dave Warnock,              #
+# Frode Woldsund, Martin Zibricky                                             #
+# Added chord formating: Tomasss, STEPHANVS                                   #
+# --------------------------------------------------------------------------- #
+# This program is free software; you can redistribute it and/or modify it     #
+# under the terms of the GNU General Public License as published by the Free  #
+# Software Foundation; version 2 of the License.                              #
+#                                                                             #
+# This program is distributed in the hope that it will be useful, but WITHOUT #
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or       #
+# FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for    #
+# more details.                                                               #
+#                                                                             #
+# You should have received a copy of the GNU General Public License along     #
+# with this program; if not, write to the Free Software Foundation, Inc., 59  #
+# Temple Place, Suite 330, Boston, MA 02111-1307 USA                          #
+###############################################################################
+-->
+<head>
+  <meta charset="utf-8" />
+  <title>${stage_title}</title>
+  <link rel="stylesheet" href="chords/chords.css" />
+  <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
+  <script type="text/javascript" src="/assets/jquery.min.js"></script>
+  <script type="text/javascript" src="chords/chords.js"></script>
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+  <link rel="icon" sizes="16x16" href="chords/images/appicon_16.png">
+  <link rel="icon" sizes="32x32" href="chords/images/appicon_32.png">
+  <link rel="icon" sizes="48x48" href="chords/images/appicon_48.png">
+  <link rel="icon" sizes="256x256" href="chords/images/appicon_256.png">
+  <link rel="apple-touch-icon" href="chords/images/appicon_256.png"/>
+</head>
+<body>
+<input type="hidden" id="next-text" value="${next}" />
+<div id="right">
+  <div id="clock"></div>
+  <div id="controls">
+  <div id="chords">chords on/off</div>
+  <div id="plus" class="button">+</div>
+  <div id="minus" class="button">-</div>
+  </div>
+  <div id="notes"></div>
+</div>
+<div id="header"><div id="verseorder"></div><div id="transpose">Transpose:</div><span id="transposecontainer">&nbsp;<div class="button" id="transposedown">-</div> <div id="transposevalue"></div>&nbsp;<div class="button" id="transposeup">+</div>&nbsp;</span><div id="capodisplay">(Capo)</div></div>
+<div id="currentslide"></div>
+<div id="nextslide"></div>
+</body>
+</html>
