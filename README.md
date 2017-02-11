@@ -36,6 +36,8 @@ http://localhost:4316/files/slide.html
 
 http://localhost:4316/files/print.html
 
+## Screenshots
+
 <img src="https://dl.dropboxusercontent.com/u/2855699/openlp_chords.gif"/>
 
 For printing:
