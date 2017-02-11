@@ -28,7 +28,7 @@ http://localhost:4316/stage/print
    
 ## For OpenLP v 2.4 and older   
 
-and unzip these files under plugins/remotes/html to OpenLP directory or manualy copy slide.html and slide.js to plugins\remotes\html\
+Go to OpenLP application directory and unzip these files under plugins/remotes/html or manualy copy slide.html and slide.js to plugins\remotes\html\
 
 Enable Remote module and check:
 
