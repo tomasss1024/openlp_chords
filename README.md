@@ -38,10 +38,14 @@ http://localhost:4316/files/print.html
 
 ## Screenshots
 
+Chords stage view:
+
 <img src="https://dl.dropboxusercontent.com/u/2855699/openlp_chords.gif"/>
+
+Chords off:
+
+<img src="https://dl.dropboxusercontent.com/u/2855699/openlp_chordsoff.gif"/>
 
 For printing:
 
 <img src="https://dl.dropboxusercontent.com/u/2855699/openlp_print.gif"/>
-
-
