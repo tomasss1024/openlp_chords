@@ -49,3 +49,12 @@ Chords off:
 For printing:
 
 <img src="https://dl.dropboxusercontent.com/u/2855699/openlp_print.gif"/>
+
+Print - chords off
+
+<img src="https://dl.dropboxusercontent.com/u/2855699/openlp_print_chordsoff.gif"/>
+
+Print preview
+
+<img src="https://dl.dropboxusercontent.com/u/2855699/openlp_printpreview.gif"/>
+
