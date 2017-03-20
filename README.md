@@ -40,21 +40,21 @@ http://localhost:4316/files/print.html
 
 Chords stage view:
 
-<img src="https://dl.dropboxusercontent.com/u/2855699/openlp_chords.gif"/>
+<img src="https://www.dropbox.com/sh/gp46izjujzg7k13/AADu10r8hfdQqz_g-AiL6Az7a/openlp_chords.gif?raw=1"/>
 
 Chords off:
 
-<img src="https://dl.dropboxusercontent.com/u/2855699/openlp_chordsoff.gif"/>
+<img src="https://www.dropbox.com/sh/gp46izjujzg7k13/AAC3QAb2LEHyBIsr9EQOO671a/openlp_chordsoff.gif?raw=1"/>
 
 For printing:
 
-<img src="https://dl.dropboxusercontent.com/u/2855699/openlp_print.gif"/>
+<img src="https://www.dropbox.com/sh/gp46izjujzg7k13/AACw5A4n0nk2Cel8UL21i1lwa/openlp_print.gif?raw=1"/>
 
 Print - chords off
 
-<img src="https://dl.dropboxusercontent.com/u/2855699/openlp_print_chordsoff.gif"/>
+<img src="https://www.dropbox.com/sh/gp46izjujzg7k13/AACTTaaEHs2hVykpx-Q8gkG1a/openlp_print_chordsoff.gif?raw=1"/>
 
 Print preview
 
-<img src="https://dl.dropboxusercontent.com/u/2855699/openlp_printpreview.gif"/>
+<img src="https://www.dropbox.com/sh/gp46izjujzg7k13/AAAeDXWOYWQPC-jCY_p6SNtza/openlp_printpreview.gif?raw=1"/>
 
